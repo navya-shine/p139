@@ -1,0 +1,31 @@
+body
+{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    color: whitesmoke;
+}
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+#start ,#status, #restart
+{
+font-size: 22px;
+}
+#footer
+{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+   width: 100%;
+   bottom: 0;
+   position: fixed;
+   
+}
